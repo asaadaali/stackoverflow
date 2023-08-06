@@ -2,3 +2,12 @@ This file was created as a part of the Udacity Data Scientist nanodegree project
 This project contains analysis and findings of the Stack Overflow 2017 Survey.
 Salary predictions were made in this project.
 Here is the link to the medium blog post https://medium.com/@asaadaali/can-you-make-tons-of-money-by-learning-data-science-and-artificial-intelligence-aa8b0adf054e
+Table of Contents
+Libraries used
+Installation
+**Project Motivation**
+I wanted to know how can someone enter the software engineering or data science field.
+I tried to answer the following questions:
+1) How much money do data scientists make?
+2) What factors affect the salaries of the data scientists?
+*File Description*
